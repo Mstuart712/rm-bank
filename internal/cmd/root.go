@@ -1,8 +1,8 @@
 package cmd
 
 import (
+	"github.com/Mstuart712/rm-bank/internal/ui"
 	tea "github.com/charmbracelet/bubbletea"
-	"github.com/mstuart712/rm-bank/internal/ui"
 	"github.com/spf13/cobra"
 )
 

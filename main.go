@@ -3,7 +3,7 @@ package main
 import (
 	"os"
 
-	"github.com/mstuart712/rm-bank/internal/cmd"
+	"github.com/Mstuart712/rm-bank/internal/cmd"
 )
 
 var version = "dev"
